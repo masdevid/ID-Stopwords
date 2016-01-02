@@ -1,3 +1,4 @@
+&
 ada
 adalah
 adanya
@@ -10,6 +11,7 @@ akankah
 akhir
 akhiri
 akhirnya
+akowh
 aku
 akulah
 amat
@@ -25,6 +27,7 @@ apabila
 apakah
 apalagi
 apatah
+aq
 artinya
 asal
 asalkan
@@ -45,6 +48,7 @@ bahkan
 bahwa
 bahwasanya
 baik
+bak
 bakal
 bakalan
 balik
@@ -64,6 +68,7 @@ begitupun
 bekerja
 belakang
 belakangan
+beliau
 belum
 belumlah
 benar
@@ -111,6 +116,7 @@ bertutur
 berujar
 berupa
 besar
+beserta
 betul
 betulkah
 biasa
@@ -185,6 +191,7 @@ dimaksud
 dimaksudkan
 dimaksudkannya
 dimaksudnya
+dimana
 diminta
 dimintai
 dimisalkan
@@ -232,11 +239,18 @@ diungkapkan
 dong
 dua
 dulu
+elo
+elu
+emang
 empat
 enggak
 enggaknya
 entah
 entahlah
+gimana
+gini
+gitu
+gue
 guna
 gunakan
 hal
@@ -269,6 +283,7 @@ inilah
 itu
 itukah
 itulah
+iya
 jadi
 jadilah
 jadinya
@@ -309,6 +324,7 @@ kata
 katakan
 katakanlah
 katanya
+kau
 ke
 keadaan
 kebetulan
@@ -321,6 +337,8 @@ kelihatan
 kelihatannya
 kelima
 keluar
+kemana
+kemarin
 kembali
 kemudian
 kemungkinan
@@ -356,6 +374,9 @@ lanjutnya
 lebih
 lewat
 lima
+lo
+loe
+lu
 luar
 macam
 maka
@@ -580,9 +601,10 @@ sekalian
 sekaligus
 sekalipun
 sekarang
-sekarang
 sekecil
+sekedar
 seketika
+sekian
 sekiranya
 sekitar
 sekitarnya
@@ -685,6 +707,7 @@ tapi
 tegas
 tegasnya
 telah
+telanjur
 tempat
 tengah
 tentang
@@ -752,7 +775,9 @@ waktunya
 walau
 walaupun
 wong
+ya
 yaitu
 yakin
 yakni
 yang
+yg
